@@ -1,5 +1,5 @@
 (ns phaser_cljs.core
-  (:require [phaser.core :as phaser]))
+  (:require [phaser.core]))
 
 (defn load-image [game key path]
   (-> game .-load (.image key path)))
