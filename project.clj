@@ -13,9 +13,9 @@
               :builds [{:id "phaser_cljs"
                         :source-paths ["src"]
                         :compiler {
-                                   :output-to "out/phaser_cljs.js"
-                                   :output-dir "out"
+                                   :output-to "app/out/phaser_cljs.js"
+                                   :output-dir "app/out"
                                    :optimizations :none
                                    :source-map true
-                                   :foreign-libs [{:file "js/phaser.js"
+                                   :foreign-libs [{:file "app/js/phaser.js"
                                                    :provides ["phaser.core"]}]}}]})
