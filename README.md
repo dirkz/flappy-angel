@@ -1,7 +1,7 @@
 Flappy Angel
 ======================
 
-Flappy bird clone. With angels. Built with [phaser.io][1], made for [firefox os][2]
+Flappy bird clone. With angel. Built with [phaser.io][1], made for [firefox os][2]
 
 (c) 2014 Dirk Zimmermann
 
